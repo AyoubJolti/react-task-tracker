@@ -10,19 +10,13 @@
       "id": "7bd6",
       "text": "hello world",
       "day": "djdj",
-      "reminder": true
-    },
-    {
-      "id": "3aab1",
-      "text": "hello",
-      "day": "djd",
       "reminder": false
     },
     {
       "id": "3aab11",
       "text": "hello",
       "day": "zkkke",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
